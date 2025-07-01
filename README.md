@@ -8,7 +8,7 @@ The CSV file is imported into a MySQL database for structured data manipulation.
 **3.Data Exploration** <br>
 Basic exploration to understand the structure, missing values, and key metrics.
 
-**4.Data Cleaning** ****
+**4.Data Cleaning** <br>
 Cleaned the data using SQL:
 Removed duplicates
 Handled NULLs
