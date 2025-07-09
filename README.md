@@ -1,5 +1,5 @@
 # SQL---ZEPTO_PROJECT-
-**1.Download Data** <br>
+**📦 Download Data** <br>
 The dataset is downloaded from Kaggle in .csv format.
 
 **🎯 Objectives**<br>
