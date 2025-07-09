@@ -2,6 +2,14 @@
 **1.Download Data** <br>
 The dataset is downloaded from Kaggle in .csv format.
 
+**🎯 Objectives**<br>
+1. ✅ Design a structured product database from raw Kaggle data.
+2. ✅ Practice data import, table creation, and SQL data types.
+3. ✅ Perform detailed data exploration and cleaning to ensure data quality.
+4. ✅ Develop practical SQL queries to extract meaningful business insights.
+5. ✅ Analyze product discounts, pricing, stock availability, and inventory distribution.
+6. ✅ Provide actionable insights to support better inventory and pricing decisions.
+
 **2.Import into MySQL**<br>
 The CSV file is imported into a MySQL database for structured data manipulation.
 
